@@ -3,3 +3,4 @@
 - Alejandro Barragan
 - Angelica Fernandez
 - Paolo Pedrigal
+- Cristina Ruiz
