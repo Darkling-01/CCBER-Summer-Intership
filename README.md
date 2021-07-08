@@ -4,3 +4,4 @@
 - Angelica Fernandez
 - Paolo Pedrigal
 - Cristina Ruiz
+- Brent Coloma
